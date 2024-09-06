@@ -8,9 +8,14 @@
 }
 
 main{
-    background-color: white;
+
     width: 80%;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.616);
+   
+
+body{
+    background-color: black;
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crunchmusic.com.br%2Fproduto%2Fguitarra-elet-gibson-les-paul-classic-ebony&psig=AOvVaw2W3gA60Rv5fN6X7uib9xGl&ust=1725726366893000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiCtuLdrogDFQAAAAAdAAAAABAE)
 }
